@@ -12,22 +12,6 @@ Krypt is a `Web3.0 blockchain application` that enables users to send transactio
  - Each transaction will be paired with a gif and it will be forever stored on the blockchain.
  - Users can access and view their latest transactions (and the gifs associated with them).
 
-### Getting Started
-To get a local copy up and running follow these simple example steps.
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/anfastech
-   ```
-2. Install NPM packages
-   ```sh
-   npm i
-   ```
-3. Start the app in development mode 
-   ```sh
-   npm run dev
-   ```
-
 ### Built With
 - [Vite.js (react)](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
