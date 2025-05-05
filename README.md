@@ -4,7 +4,7 @@
 NexFi is a `Web3.0 blockchain application` that enables users to send transactions over the blockchain, with each transaction being permanently recorded on the blockchain.
 
 ### Demo / UI
-<img src = "https://i.ibb.co/DVF4tNW/image.png"/>
+![image](https://github.com/user-attachments/assets/c8d72259-5abe-4ef5-beba-d627d9e5e5eb)
   
 ### Main Functionalities:
 
